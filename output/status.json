@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-29 15:57:57",
+  "updated_at": "2026-09-30 03:10:51",
   "repo": "Lightconer/tvbox-ysc-config",
   "sources": [
     {
       "id": "feimao",
       "name": "肥猫",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "401 Client Error:  for url: https://6296.kstore.vip/facat.json",
-      "cached": true
+      "used_url": "http://肥猫.net/tv",
+      "error": null
     },
     {
       "id": "fantaiying",
@@ -51,7 +50,7 @@
       "name": "小米",
       "ok": false,
       "used_url": null,
-      "error": "HTTPConnectionPool(host='miqk.cc', port=80): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by NameResolutionError(\"HTTPConnection(host='miqk.cc', port=80): Failed to resolve 'miqk.cc' ([Errno -5] No address associated with hostname)\"))"
+      "error": "HTTPConnectionPool(host='miqk.cc', port=80): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by NameResolutionError(\"HTTPConnection(host='miqk.cc', port=80): Failed to resolve 'miqk.cc' ([Errno -3] Temporary failure in name resolution)\"))"
     },
     {
       "id": "qiaoji",
